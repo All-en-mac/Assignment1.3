@@ -49,8 +49,3 @@ Delete a folder/file:
 Mac/Linux: rm -rf folder-name (or rm file-name)
 
 Windows: Remove-Item folder-name -Recurse (or Remove-Item file-name)
-
-Submission Checklist
-Record of Terminal Commands: Copy and paste the list of commands you typed into your terminal.
-
-Screenshot of Final Folder Structure: Take a screenshot of your VS Code Explorer sidebar showing the web-development-practice folder containing week-1, week-2, and week-3, with their respective index.html files.
